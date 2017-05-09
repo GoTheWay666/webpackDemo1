@@ -1,0 +1,26 @@
+{
+  "name": "webpackDemo1",
+  "version": "1.0.0",
+  "description": "a webpack demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoTheWay666/webpackDemo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoTheWay666/webpackDemo1/issues"
+  },
+  "homepage": "https://github.com/GoTheWay666/webpackDemo1#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "webpack": "^2.5.1"
+  }
+}
